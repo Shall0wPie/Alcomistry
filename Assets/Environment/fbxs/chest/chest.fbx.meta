@@ -1,60 +1,24 @@
 fileFormatVersion: 2
-guid: 507392f8f3f85814d98fc3603173c6ad
+guid: 9f4da10f14c6e7347abd0e0e7c8d5301
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable:
   - first:
-      74: 5481745763121828140
-    second: chest|ArmatureAction
-  - first:
-      74: -2589475637559846361
-    second: chest|chest_krishkaAction
-  - first:
-      74: 4948670035774471121
-    second: chest|chest_krishkaAction.001
-  - first:
-      74: -2783386736719162721
-    second: chest|chest_platokAction
+      74: 3969585026965078370
+    second: chest_platok|close_open
   - first:
       74: 6725796838849921686
     second: chest|close_open
   - first:
-      74: 5555675374573772385
-    second: chest_platok|ArmatureAction
-  - first:
-      74: 4387006581221162976
-    second: chest_platok|chest_krishkaAction
-  - first:
-      74: -7846751284165087628
-    second: chest_platok|chest_krishkaAction.001
-  - first:
-      74: 2839732617332824194
-    second: chest_platok|chest_platokAction
-  - first:
-      74: 3969585026965078370
-    second: chest_platok|close_open
-  - first:
-      74: 4781951162920444690
-    second: Armature|ArmatureAction
-  - first:
       74: -1422011007694221501
     second: Armature|ArmatureAction.001
-  - first:
-      74: -4985161347288715139
-    second: Armature|chest_krishkaAction
-  - first:
-      74: 7715835109766093589
-    second: Armature|chest_krishkaAction.001
-  - first:
-      74: -8563222476930736903
-    second: Armature|chest_platokAction
   - first:
       74: 4069756942616510336
     second: Armature|close_open
   externalObjects: {}
   materials:
     materialImportMode: 1
-    materialName: 0
+    materialName: 1
     materialSearch: 1
     materialLocation: 0
   animations:
